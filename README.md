@@ -4,4 +4,4 @@
 
 ## Primary Resource
 Full handwritten notes PDF:  
-
+https://github.com/sanbancan/PRESTON-COMPANIES-ENGINEERING-JOB-SHADOWING/blob/main/Preston%20Job%20shadowing.pdf
